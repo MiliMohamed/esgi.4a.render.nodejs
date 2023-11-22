@@ -7,7 +7,7 @@ To do this exercise, you must read carefully the given documentations and rules.
 - Deploy this Node.js application to Render:
   - Create your service on Render in the Europe region
   - Deploy your project to an online Git repository
-  - Link your service to your Git repository
+  - Link your service to your Git repositorynpm
   - Configure properly the service to retrieve dependencies and start your project
 
 ## Resources
